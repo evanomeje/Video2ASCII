@@ -1,8 +1,5 @@
 # Video2ASCII
 
-T
-# Video to ASCII Art Converter
-
 This project converts a video file into a series of ASCII art frames and then assembles those frames into a video.
 
 ## Demo
