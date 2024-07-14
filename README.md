@@ -1,6 +1,5 @@
 # Video2ASCII
 
+C:\Users\Evano\pythoncode\kelela.mp4
 
-
-C:\Users\Evano\pythoncode\Demo1.mp4
 
