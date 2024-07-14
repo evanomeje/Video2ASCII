@@ -1,4 +1,5 @@
 # Video2ASCII
 
-https://github.com/user-attachments/assets/a8d5ddee-339d-4326-8dd2-96639d06d0d4
 
+
+![Demo 1 - Made with Clipchamp (3) (1)](https://github.com/user-attachments/assets/378fc9be-2f73-42a7-9c80-e2be9a3041fa)
